@@ -1,0 +1,54 @@
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Data Access.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Data Access.pdb
+D:\My Work\TimeTracking\TimeTracking\Data Access\obj\Debug\Data Access.csprojResolveAssemblyReference.cache
+D:\My Work\TimeTracking\TimeTracking\Data Access\obj\Debug\Data Access.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\obj\Debug\Data Access.pdb
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Data Access.dll.config
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\EntityFramework.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\EntityFramework.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\TimeTracking.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\WebActivatorEx.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Owin.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.Optimization.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.Mvc.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Owin.Security.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Owin.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\StructureMap.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Business Logic.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\StructureMap.Web.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.Razor.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.WebPages.Razor.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.WebPages.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\TimeTracking.pdb
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\TimeTracking.dll.config
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Owin.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.Optimization.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.Mvc.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Owin.Security.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\StructureMap.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Business Logic.pdb
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\StructureMap.Web.pdb
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\StructureMap.Web.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.Razor.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.WebPages.Razor.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.WebPages.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Utilities.dll
+D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Utilities.pdb

@@ -1,0 +1,14 @@
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Business Logic.dll
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Business Logic.pdb
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Data Access.dll
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Data Access.pdb
+D:\My Work\TimeTracking\TimeTracking\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+D:\My Work\TimeTracking\TimeTracking\Business Logic\obj\Debug\Business Logic.dll
+D:\My Work\TimeTracking\TimeTracking\Business Logic\obj\Debug\Business Logic.pdb
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Data Access.dll.config
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Utilities.dll
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Utilities.pdb
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
