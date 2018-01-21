@@ -45,7 +45,6 @@ using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
-using TimeTracking.Models;
 <#
 if (container.FunctionImports.Any())
 {
@@ -59,7 +58,7 @@ using System.Linq;
 <#=Accessibility.ForType(container)#> partial class <#=code.Escape(container)#> : IdentityDbContext<ApplicationUser>
 {
     public <#=code.Escape(container)#>()
-        : base("name=<#=container.Name#>")
+        : base("<#=container.Name#>", throwIfV1Schema: false)
     {
 <#
 if (!loader.IsLazyLoadingEnabled(container))
@@ -85,7 +84,11 @@ foreach (var entitySet in container.BaseEntitySets.OfType<EntitySet>())
 
     protected override void OnModelCreating(DbModelBuilder modelBuilder)
     {
-        throw new UnintentionalCodeFirstException();
+        //throw new UnintentionalCodeFirstException();
+		modelBuilder.Entity<IdentityUserRole>().HasKey(x => new { x.RoleId, x.UserId }).ToTable("AspNetUserRoles");
+        modelBuilder.Entity<IdentityUserLogin>().HasKey(x => x.UserId).ToTable("AspNetUserLogins");
+		//modelBuilder.Entity<AspNetUserLogin>().HasKey(x => x.UserId).ToTable("AspNetUserLogins");
+            
     }
 
 	 public static TimeTrackingEntities Create()

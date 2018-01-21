@@ -14,18 +14,21 @@ namespace Data_Access
     using System.Data.Entity.Infrastructure;
     using Microsoft.AspNet.Identity;
     using Microsoft.AspNet.Identity.EntityFramework;
-    using TimeTracking.Models;
     
     public partial class TimeTrackingEntities : IdentityDbContext<ApplicationUser>
     {
         public TimeTrackingEntities()
-            : base("name=TimeTrackingEntities")
+            : base("TimeTrackingEntities", throwIfV1Schema: false)
         {
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            throw new UnintentionalCodeFirstException();
+            //throw new UnintentionalCodeFirstException();
+    		modelBuilder.Entity<IdentityUserRole>().HasKey(x => new { x.RoleId, x.UserId }).ToTable("AspNetUserRoles");
+            modelBuilder.Entity<IdentityUserLogin>().HasKey(x => x.UserId).ToTable("AspNetUserLogins");
+    		//modelBuilder.Entity<AspNetUserLogin>().HasKey(x => x.UserId).ToTable("AspNetUserLogins");
+                
         }
     
     	 public static TimeTrackingEntities Create()
@@ -33,11 +36,9 @@ namespace Data_Access
                 return new TimeTrackingEntities();
             }
     
-        public virtual DbSet<C__MigrationHistory> C__MigrationHistory { get; set; }
         public virtual DbSet<AspNetRole> AspNetRoles { get; set; }
         public virtual DbSet<AspNetUserClaim> AspNetUserClaims { get; set; }
-        public virtual DbSet<AspNetUserLogin> AspNetUserLogins { get; set; }
         public virtual DbSet<AspNetUser> AspNetUsers { get; set; }
-        public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<MyUser> MyUsers { get; set; }
     }
 }
