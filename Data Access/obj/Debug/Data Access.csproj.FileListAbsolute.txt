@@ -52,31 +52,3 @@ D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.WebPages.x
 D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Utilities.dll
 D:\My Work\TimeTracking\TimeTracking\Data Access\bin\Debug\Utilities.pdb
-D:\Repos\SDTR\Data Access\obj\Debug\Data Access.csprojResolveAssemblyReference.cache
-D:\Repos\SDTR\Data Access\obj\Debug\Data Access.csproj.CoreCompileInputs.cache
-D:\Repos\SDTR\Data Access\bin\Debug\Data Access.dll.config
-D:\Repos\SDTR\Data Access\bin\Debug\Data Access.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Data Access.pdb
-D:\Repos\SDTR\Data Access\bin\Debug\EntityFramework.dll
-D:\Repos\SDTR\Data Access\bin\Debug\EntityFramework.SqlServer.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.Owin.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.Owin.Security.Cookies.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.Owin.Security.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.Owin.Security.OAuth.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Newtonsoft.Json.dll
-D:\Repos\SDTR\Data Access\bin\Debug\Owin.dll
-D:\Repos\SDTR\Data Access\bin\Debug\EntityFramework.xml
-D:\Repos\SDTR\Data Access\bin\Debug\EntityFramework.SqlServer.xml
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.Owin.xml
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.Owin.Security.xml
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-D:\Repos\SDTR\Data Access\bin\Debug\Microsoft.Owin.Security.OAuth.xml
-D:\Repos\SDTR\Data Access\bin\Debug\Newtonsoft.Json.xml
-D:\Repos\SDTR\Data Access\obj\Debug\Data Access.dll
-D:\Repos\SDTR\Data Access\obj\Debug\Data Access.pdb

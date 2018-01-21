@@ -24,9 +24,10 @@ namespace Data_Access
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+    	base.OnModelCreating(modelBuilder);
             //throw new UnintentionalCodeFirstException();
-    		modelBuilder.Entity<IdentityUserRole>().HasKey(x => new { x.RoleId, x.UserId }).ToTable("AspNetUserRoles");
-            modelBuilder.Entity<IdentityUserLogin>().HasKey(x => x.UserId).ToTable("AspNetUserLogins");
+    		//modelBuilder.Entity<IdentityUserRole>().HasKey(x => new { x.RoleId, x.UserId }).ToTable("AspNetUserRoles");
+            //modelBuilder.Entity<IdentityUserLogin>().HasKey(x => x.UserId).ToTable("AspNetUserLogins");
     		//modelBuilder.Entity<AspNetUserLogin>().HasKey(x => x.UserId).ToTable("AspNetUserLogins");
                 
         }
