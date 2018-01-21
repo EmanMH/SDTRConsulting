@@ -16,3 +16,8 @@ packages/
 PublishProfiles/
 .vs/
 /obj/
+Business Logic/obj/Debug/
+Data Access/obj/Debug/
+TimeTracking/obj/Debug/
+Utilities/obj/Debug/
+ 

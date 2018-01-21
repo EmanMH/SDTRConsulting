@@ -12,3 +12,36 @@ D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Microsoft.AspNet.I
 D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\My Work\TimeTracking\TimeTracking\Business Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Business Logic.dll.config
+D:\Repos\SDTR\Business Logic\bin\Debug\Business Logic.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Business Logic.pdb
+D:\Repos\SDTR\Business Logic\bin\Debug\Data Access.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\EntityFramework.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Utilities.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.Owin.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.Owin.Security.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Owin.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\SDTR\Business Logic\bin\Debug\Data Access.pdb
+D:\Repos\SDTR\Business Logic\bin\Debug\Data Access.dll.config
+D:\Repos\SDTR\Business Logic\bin\Debug\EntityFramework.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Utilities.pdb
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.Owin.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.Owin.Security.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Repos\SDTR\Business Logic\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\SDTR\Business Logic\obj\Debug\Business Logic.csprojResolveAssemblyReference.cache
+D:\Repos\SDTR\Business Logic\obj\Debug\Business Logic.csproj.CoreCompileInputs.cache
+D:\Repos\SDTR\Business Logic\obj\Debug\Business Logic.dll
+D:\Repos\SDTR\Business Logic\obj\Debug\Business Logic.pdb

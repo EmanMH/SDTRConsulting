@@ -3,3 +3,8 @@ D:\My Work\TimeTracking\TimeTracking\Utilities\bin\Debug\Utilities.pdb
 D:\My Work\TimeTracking\TimeTracking\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
 D:\My Work\TimeTracking\TimeTracking\Utilities\obj\Debug\Utilities.dll
 D:\My Work\TimeTracking\TimeTracking\Utilities\obj\Debug\Utilities.pdb
+D:\Repos\SDTR\Utilities\bin\Debug\Utilities.dll
+D:\Repos\SDTR\Utilities\bin\Debug\Utilities.pdb
+D:\Repos\SDTR\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Repos\SDTR\Utilities\obj\Debug\Utilities.dll
+D:\Repos\SDTR\Utilities\obj\Debug\Utilities.pdb
